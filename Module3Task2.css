@@ -1,0 +1,128 @@
+body
+{
+	background-color: rgba(145, 0, 12,1);
+
+}
+
+/*NAVBAR*/
+
+.navbar
+{
+	padding-right: 10%;
+	padding-left: 10%;
+}
+.nav-item
+{
+	font-size: 17px;
+	font-family: Montserrat Alternates;
+	font-weight: bold;
+	box-shadow: 3px 3px 3px #96000d; 
+	margin: 0 3%;
+}
+
+/*HOME*/
+
+.main_head
+{
+	margin-left: 2%;
+	margin-right: 2%;
+	padding: 1%;
+	color: #cc0202;
+	font-family: Righteous; 
+	font-size: 170%;
+	font-style: italic;  
+	text-align: center; 
+
+}
+
+/*ABOUT*/
+
+.headings
+{
+	margin-top: 50px;
+	font-family: Caveat;
+	background-color: white;
+	padding: 1%;
+	box-shadow: 3px 3px 3px black;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 5%;
+}
+
+
+.intro_text
+{
+	margin-top: 180px;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 12px 12px 10px black;
+	background-size: cover;
+	text-align: left;
+	border-radius: 25px;
+	word-spacing: 10px;
+	color: #e6e6e6;
+	font-family: Righteous;
+	border: 2px solid white;
+}
+
+/*SKILLS*/
+.intro
+{
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 4%;
+	text-align: center;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 12px 12px 10px black;
+	background-size: cover;
+	font-family: Caveat;
+	font-weight: bold;
+}
+
+/*SEVICES*/
+
+.card
+{
+	box-shadow: 5px 5px 5px black; 
+}
+
+
+/*CONATACT*/
+
+.full_contact
+{
+   	background-color: rgba(255,255,255,0.9);
+	box-shadow: 12px 12px 10px black;
+	margin: 0 4%;
+	background-size: cover;
+  	float: left;
+  	width: 92%;
+  	margin-bottom: 3%;
+}
+.contact_icon
+{
+	font-size: 200%; 
+	padding: 2px 8px; 
+	color: #1c1818;
+	margin-bottom: 1%;
+	text-shadow: 4px 4px 4px #969696;
+}
+.form-group
+{
+	padding: 2%;
+	font-family: Montserrat Alternates;
+	font-weight: bold;
+	float: left;
+}
+
+
+/*footer*/
+
+.footer
+{
+	text-align: center; 
+	letter-spacing: 5px;
+	font-family: Montserrat Alternates; 
+	font-weight: bold;
+	color: white;
+	text-shadow: 1px 1px 1px grey;
+}
